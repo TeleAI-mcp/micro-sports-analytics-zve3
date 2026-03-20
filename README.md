@@ -1,2 +1,3 @@
-# micro-sports-analytics-zve3
-Automated issue comment bot repository
+# Micro Sports Analytics Zve3
+
+Automated issue comment bot repository.
